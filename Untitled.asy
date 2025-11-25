@@ -1,0 +1,11 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -16 -21 64 -21
+LINE Normal -16 27 -16 -21
+LINE Normal 64 27 -16 27
+LINE Normal 89 27 64 27
+LINE Normal 88 -21 64 -21
+ARC Normal 64 -21 112 27 89 27 88 -21
+PIN -16 -16 NONE 8
+PINATTR PinName Vin1
+PINATTR SpiceOrder 1
